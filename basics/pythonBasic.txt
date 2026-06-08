@@ -1,0 +1,17 @@
+Python 
+backend language 
+
+Frontend -> API -> backend -> Database(db)
+
+rules 
+1. compulsory follow indentation
+2. no semi colon 
+3. instead of curly braces '{}' we use colon ':'
+
+
+no data types are present 
+a = 15   int 
+b = 98.56
+c = 'c'  string
+d=  "ram"  string 
+e = False  boolean
