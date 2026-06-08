@@ -1,0 +1,47 @@
+If_Else 
+-------
+1. Character Case
+    Input a character.
+        Uppercase
+        Lowercase
+
+2. Check whether the entered number is Three-Digit Number or Not
+
+3. Student Passed All Subjects
+    Input 3 Subjects marks.
+    Pass only if all are ≥ 35.
+
+4. Secure Password
+    Input a password length.
+    Password is valid if:
+        Length >= 8
+        Length <= 16
+
+5. Lucky Number
+    A number is lucky if:
+        Greater than 100    
+        Less than 1000  
+        Last digit is 7
+
+6. Check whether the year entered by user is leap year or not 
+    Leap Year Conditions:
+
+        . Divisible by 400 → Leap Year
+        . Else Divisible by 100 → Not Leap Year
+        . Else Divisible by 4 → Leap Year
+        . Else → Not Leap Year
+
+7. Mega Challenge
+    A student is declared "Outstanding" if:
+
+        Maths >= 80
+        Physics >= 80
+        Chemistry >= 80
+        English >= 80
+        Attendance >= 90
+        Sports score >= 70
+        Project submitted == True
+    
+    else print "Average"
+
+        Use exactly one if and one else.
