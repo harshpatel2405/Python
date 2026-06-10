@@ -23,6 +23,10 @@ If_Else
         Less than 1000  
         Last digit is 7
 
+
+        100 < num  <  1000
+        num >= 100 && num <= 1000
+
 6. Check whether the year entered by user is leap year or not 
     Leap Year Conditions:
 
@@ -43,5 +47,4 @@ If_Else
         Project submitted == True
     
     else print "Average"
-
         Use exactly one if and one else.
