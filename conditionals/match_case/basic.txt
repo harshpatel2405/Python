@@ -1,0 +1,7 @@
+Match case
+same like your switch case but more faster 
+
+no need to write break
+
+default : 
+case _

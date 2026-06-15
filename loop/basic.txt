@@ -1,0 +1,5 @@
+1. for 
+    range  (1,11)
+    iterables string (sequence of characters)
+
+2. while -- only while loop

@@ -11,7 +11,6 @@ basicSalary = int(input("Enter your salary : "))
 hra = 0
 da = 0
 
-
 if (basicSalary > 20000):
     hra = 25
     da = 90
