@@ -1,5 +1,8 @@
 1. for 
     range  (1,11)
+    range(stop)  -> start from 0, and increase by 1
+    range (start, stop) -> stops at stop-1 and increase by 1
+    range(start, stop , step) -> step is how much you want to inc or decrement
     iterables string (sequence of characters)
 
 2. while -- only while loop
