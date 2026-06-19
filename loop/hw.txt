@@ -1,0 +1,4 @@
+19/06/2026
+----------
+1. Find the product of numbers from 1 to N
+2. Print multiplication table of a given number
