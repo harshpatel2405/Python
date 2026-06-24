@@ -116,4 +116,6 @@ for i in range(row, 0, -1):
 
 print()
 
-# * 8. diamond
+# * 8. diamond - UPPER PYRAMID + LOWER PYRAMID 
+# * 9. HOUR GLASS - LOWER PYRAMID + UPPER PYRAMID
+
