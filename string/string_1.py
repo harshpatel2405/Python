@@ -102,32 +102,3 @@ print(str*10)
 str = input("Enter your name : ")
 print(str.upper())
 
-
-'''
-int m = 10;
-
-void F(int a)
-{
-    static int s = 5;
-    m = m+1;
-    s = s+2;
-    a = a+m+s;
-    print("%d ", a);
-}
-
-void G(int *b)
-{
-    int m = *b + 1;
-    F(m);
-    F(m);
-    *b = m-1;
-    printf("%d ", m);
-}
-
-int main()
-{
-    G(&m);
-    printf("%d", m);
-}
-
-'''
