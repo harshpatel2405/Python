@@ -1,0 +1,11 @@
+Data structure 
+1. List 
+2. Set 
+3. Tuple
+4. Dictionary 
+
+list 
+-> list is iterable 
+-> it is mutable 
+-> list : []
+-> 

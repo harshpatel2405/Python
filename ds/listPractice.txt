@@ -1,0 +1,55 @@
+1. Longest Name
+    Given a list of names.
+    names = ["Rahul", "Ankit", "Krishna", "Jay", "Siddharth"]
+    Find the longest name.
+
+2. Count Names Starting with A
+    Given a list of names.
+    names = ["Amit", "Rohan", "Akash", "Ajay", "Kiran"]
+    Count how many names start with A.
+
+3. Remove Empty Strings
+    Given:
+    words = ["Python", "", "Java", "", "React", "Node"]
+    Remove all empty strings.
+
+    Expected Output
+    ["Python", "Java", "React", "Node"]
+
+4. Fruit Search
+    Store a list of fruits.
+    Ask the user to enter a fruit name.
+    Ignore uppercase/lowercase differences.
+
+    Example
+    Enter Fruit : mango
+    Found
+
+5. Total Characters
+    Given
+    words = ["Apple", "Banana", "Orange", "Kiwi"]
+    Find the total number of characters in all words.
+
+6. Reverse Every Word
+    Given
+    words = ["apple", "banana", "orange"]
+
+    Output
+    ["elppa", "ananab", "egnaro"]
+
+7. Find Duplicate Words
+    Given
+    words = ["apple", "banana", "apple", "kiwi", "banana"]
+    Print only duplicate words.
+
+8. Word Frequency Counter
+    Given a sentence.
+    Python is easy and Python is powerful
+    Convert it into a list and count frequency of each word.
+
+    Output
+    Python : 2
+    is : 2
+    easy : 1
+    and : 1
+    powerful : 1
