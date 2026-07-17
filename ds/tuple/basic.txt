@@ -1,0 +1,7 @@
+Tuple 
+-----
+()
+faster as compared to list 
+immutable -- cannot be updated
+it is iterable 
+datatype - tuple
