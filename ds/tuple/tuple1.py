@@ -13,6 +13,8 @@ print(num)
 num=(10, )
 print(num)
 
+for i in num:
+    print(i)
 
 num = 11,22,33,44,55
 print(num[0])

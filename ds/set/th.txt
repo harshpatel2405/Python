@@ -1,0 +1,17 @@
+Set 
+---
+Set is a data structure 
+store data 
+mutable 
+Unordered
+duplicate elements are not allowed
+
+10 10 20 30 10
+10 20 30
+
+Symbol : {}
+
+can store only immutable object / elements 
+number, string , tuple
+
+list , dictionary -- mutable are not allowed
