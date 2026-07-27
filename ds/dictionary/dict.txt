@@ -1,0 +1,28 @@
+Dictionary
+----------
+key -- value pair
+name = "harsh"
+name is key ,
+harsh is value 
+
+
+1. key is unique 
+2. value may be duplicate 
+3. mutable (can be updated)
+4. Fast search -> keys 
+
+dict_name = {} 
+
+or 
+
+dict_name = {
+    key : value,
+    key : value
+}
+
+student = 
+{
+    "name" : "harsh",
+    "age"  : 22,
+    "marks" : 100
+}
