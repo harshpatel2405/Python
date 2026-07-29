@@ -93,7 +93,7 @@ print(str1+str2)
 10. Write a program to print a string 10 times using the repetition operator.
 '''
 str = "task"
-print(str*10)
+print("10." ,str*10)
 
 '''
 11. Write a program to count the number of characters in a user-entered string. -- len 

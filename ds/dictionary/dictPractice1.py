@@ -33,4 +33,12 @@ Expected Output
     "powerful":1
 }
 '''
-sen = "python is easy python is powerful"
+sen = "python is easy python is powerful".split()
+print(sen)
+
+counter = {}
+for i in set(sen):
+    counter[i] = sen.count(i)
+
+
+print(counter)
