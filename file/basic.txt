@@ -1,0 +1,62 @@
+File 
+====
+File, will store the data which is there in output 
+
+# * open 
+f = open("filename","mode")
+
+# * read
+reads complete file 
+f.read()
+
+# * close 
+f.close()
+
+
+mode -- 
+r -> read mode   -> will not create a new file -> file does not exists error 
+w -> write mode 
+a -> append mode 
+
+r+ -> read and write mode 
+w+ -> write and read mode 
+a+ -> append and read mode 
+
+rb -> read binary 
+wb -> write in binary 
+ab -> append in binary  
+
+
+DELETE FILE
+===========
+33. Delete a File
+-----------------
+Example:
+
+import os
+os.remove("data.txt")
+Safer approach:
+
+import os
+
+if os.path.exists("data.txt"):
+    os.remove("data.txt")
+    print("File deleted")
+else:
+    print("File not found")
+
+
+
+CREATE FOLDER
+=============
+
+
+34. Create a Folder
+-------------------
+
+Example:
+
+import os
+
+os.mkdir("documents")
+
