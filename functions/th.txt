@@ -1,0 +1,13 @@
+void function_name(args):
+    logic 
+
+returnType funtion_name (args)
+
+
+def function_name(args):
+    logic 
+
+anonymous , 
+args , kwargs 
+higher order function 
+decorators 
