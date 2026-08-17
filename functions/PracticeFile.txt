@@ -1,0 +1,45 @@
+Q1. Employee Bonus System 🔥🔥
+
+Given:
+employees = [
+    ("Harsh", 45000, 5),
+    ("Rahul", 28000, 2),
+    ("Amit", 55000, 6),
+    ("Neha", 32000, 3),
+    ("Priya", 70000, 8)
+]
+
+Each tuple contains:
+
+(name, salary, years_of_experience)
+
+Create a function calculate_bonus(employees).
+Rules:
+
+Only employees with 3 or more years of experience are eligible.
+Eligible employees receive a 10% salary bonus.
+Use filter() to select eligible employees.
+Use map() to calculate the bonus salary.
+Return:
+[49500, 60500, 35200, 77000]
+
+Q2. Create a function:
+
+process_data(numbers)
+
+Given:
+numbers = [15, 22, 8, 31, 44, 17, 50, 6, 27, 40]
+
+Perform this pipeline:
+
+Original numbers
+       ↓
+Remove numbers below 15
+       ↓
+Keep only even numbers
+       ↓
+Multiply each number by 3
+       ↓
+Keep values below 150
+       ↓
+Add 5 to each value

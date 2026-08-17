@@ -24,7 +24,9 @@ result = list(map(lambda x: x*x, num))
 print(result)
 
 
-num = [10, 20, 30, 40,11,22,33,44,55]
+num = [10, 20, 30, 40, 11, 22, 33, 44, 55]
 
-result = list(filter(lambda x: x%2 ==0, num))
+result = list(filter(lambda x: x % 2 == 0, num))
 print(result)
+
+# QUESTION : ASK A NAME FROM USER AND IF 'a'  IS PRESENT , DO NOT PRINT 'a'
