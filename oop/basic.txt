@@ -1,0 +1,22 @@
+OOPS 
+----
+Object Oriented programming
+
+Function Oriented -> Functions
+
+class -> blueprint of object -> person
+
+Object -> Real World Thing
+
+
+age = 12
+
+class -> most of virtual 
+object -> most of physical
+
+20 class Object Pair
+
+6 Toyota Vellfire 
+7 royal enfield continental gt 650 
+8 movie Avengers: Endgame 
+9 Apple AirPods Max 
