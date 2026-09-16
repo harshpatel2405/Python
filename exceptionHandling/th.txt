@@ -1,0 +1,12 @@
+Exception Handling 
+------------------
+run time error (logical error)
+
+10 / 0 => infinity 
+
+try:
+    # risky code
+except :
+    #handle code
+else:
+    # for no error scenario after being successfully executed
