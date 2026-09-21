@@ -1,0 +1,8 @@
+school
+|- student 
+|- teachers
+# |- admin 
+# |- staff
+|- database
+
+database --- student id , name , age , email -- teachers id , name , age , email 
