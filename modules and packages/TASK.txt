@@ -1,0 +1,31 @@
+project_root/
+├── main.py
+└── student_tracker/
+    ├── __init__.py
+    ├── data.py
+    └── functions.py
+
+1. student_tracker/data.py
+This file is dedicated solely to holding the database structure. Keeping data separate from logic makes your code clean.
+
+Contents:
+Initialize an empty dictionary named students_db.
+What it looks like conceptually:
+A central storage place where keys are student IDs and values store the student's name and a list of marks.
+
+2. student_tracker/functions.py
+This file contains all the procedural functions that manipulate the database.
+
+Required Functions to Implement:
+- add_student(database, student_id, name, initial_marks): Checks if the ID already exists; if not, creates the student record in the dictionary.
+- add_marks(database, student_id, new_mark): Finds the student by ID and adds a new mark to their list.
+- calculate_average(database, student_id): Computes the average score for a specific student.
+- display_report(database): Loops through all records and prints every student's details and average score.
+
+How they connect with main.py (Outside the folder):
+In your main.py, you will import the database from data.py and the functions from functions.py to run your workflow.
+
+101 :{
+    name:"Harsh",
+    marks :[10,20,30]
+}
